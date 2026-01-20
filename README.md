@@ -81,7 +81,8 @@ Calculator-Manual-vs-CodeBased
 
 ### Manual Calculator
 
-![Manual Calculator](<img width="867" height="403" alt="manual calculator UI" src="https://github.com/user-attachments/assets/7d5f9ebf-89fd-4445-bc2a-d9c5c7b90c46" />
+![Manual Calculator](<img width="857" height="407" alt="manual calculator" src="https://github.com/user-attachments/assets/1ba98972-8897-4bac-9e9f-9c5415a176b4" />
+
 )
 
 ### Code-Based Calculator
