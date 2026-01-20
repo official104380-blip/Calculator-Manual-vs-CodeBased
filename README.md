@@ -87,7 +87,8 @@ Calculator-Manual-vs-CodeBased
 
 ### Code-Based Calculator
 
-![Code-Based Calculator](<img width="365" height="303" alt="code-based-calculator" src="https://github.com/user-attachments/assets/44905263-f9f4-4189-bfbf-9d312bd43cbc" />
+![Code-Based Calculator](<img width="365" height="303" alt="code-based-calculator" src="https://github.com/user-attachments/assets/7759564d-2a08-452c-a3b3-0358deda8350" />
+
 )
 
 ---
@@ -106,8 +107,6 @@ Calculator-Manual-vs-CodeBased
 This project is created for **learning, practice, and demonstration purposes** and is shared to track progress as a web development learner.
 
 ---
-
-## 👨‍💻 Author
 
 ## 👨‍💻 Author
 ** Manish Chauhan **  
